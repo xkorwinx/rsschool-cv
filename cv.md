@@ -64,3 +64,25 @@ Code example
     </script>
 
 ----------------------------------------
+
+* Layout of several landing pages;
+
+* Studying information on the different sources like [javascript.info](https://javascript.info/);
+
+* Self-training and working with JS operators, cycles, functions, arrays, objects, implementation of sorting 
+algorithms, etc.
+
+* Classes and training with friends who work as Front End Developers;
+
+ 
+
+Education
+
+I am a graduate of the Belarusian National Technical University of Power Plants faculty. Specialty - Supply Power, qualified as power engineer. Graduated in 2013.
+
+
+
+English
+----------------------------------------
+
+I also underwent retraining at The State Educational Institution "Academy of Postgraduate Education" in the specialty "Modern Foreign Language" (indicating the type of a professional activity)" with the conferred qualification of “Translator, Foreign Language Assistant”. Also graduated in 2013. The approximate level of the language at the moment is A2.

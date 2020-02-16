@@ -77,9 +77,8 @@ algorithms, etc.
  
 
 Education
-
+----------------------------------------
 I am a graduate of the Belarusian National Technical University of Power Plants faculty. Specialty - Supply Power, qualified as power engineer. Graduated in 2013.
-
 
 
 English

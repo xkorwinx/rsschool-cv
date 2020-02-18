@@ -13,7 +13,7 @@ Phone number:                  8029-567-43-10.
 
 Summary
 ---------
-I'm going tj become a Front-End developer, because I consider this the most trendy way in development. This is both technical and, to some extent, creative work. I like the front-end because you can experiment, see the result immediately and get all sorts of beautiful things.
+I'm going to become a Front-End developer, because I consider this the most trendy way in development. This is both technical and, to some extent, creative work. I like the front-end because you can experiment, see the result immediately and get all sorts of beautiful things.
 
 I am a persistent and diligent person. I love complex and unusual tasks and I like to achieve my goals and learn new things.
 

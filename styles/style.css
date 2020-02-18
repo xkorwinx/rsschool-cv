@@ -1,0 +1,45 @@
+body{
+    display: block;
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    background-image: url(../image/background1.jpg);
+    margin: 12px;
+    }
+.name {
+    margin-top: 105px;
+}
+.name-container{
+    width: 1024px;
+    padding: 10px;
+    margin: auto;
+    display: block;
+    background-color: #9c9196;
+}
+.container {
+    width: 1024px;
+    padding: 10px;
+    margin: auto;
+    display: block;
+    background-image: radial-gradient(circle, #ffdefe, #9c9196);
+}
+.foto{
+    float: left;
+    margin: 7px 7px 7px 0;
+    height: 170px;
+}
+.contact-container{
+    margin-top: 80px;
+}
+p{
+    text-align: justify;
+}
+.link-inf{
+    color: blue;
+}
+.skills-list{
+    font-style: italic;
+}
+.skills-expression{
+    font-weight: bold;
+}

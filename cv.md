@@ -31,7 +31,7 @@ I am a persistent and diligent person. I love complex and unusual tasks and I li
 * css;
 * JS;
 * ES6;
-* Gitttt;
+* Git;
 * GitHub;
 * IDE (Visual Studio Code);
 

@@ -1,0 +1,161 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+ }
+ .container {
+   width: 50%;
+   margin: 20px auto;
+   border: 1px solid rgb(24, 21, 41);
+}
+.header {
+  width: 100%;
+  height: 230px;
+  background-color: rgb(24, 21, 41);
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+.header img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  position: absolute;
+  top: 15px;
+  left: 25px;
+  border: 5px solid lightgray;
+  box-shadow: 3px 3px 10px rgb(211, 211, 211, 0,5);
+  cursor: pointer; 
+  transition: 0.5s;
+  user-select: none;
+  filter: grayscale(100%);
+  
+}
+.header img:hover {
+  filter: grayscale(0%);
+  transform: scale(1.05);
+  box-shadow: 3px 3px 10px rgb(211, 211, 211, 0,5);
+}
+.header-text {
+  color: white;
+  width: 60%;
+  margin-left: auto;
+}
+.header-text h1 {
+  font-size: 80px;
+  font-weight: normal;
+}
+.header-text p {
+  font-size: 20px;
+  color: lightgray;
+}
+.navigation {
+  background-color: rgb(24, 21, 41);
+  padding: 5px 50px;
+ 
+}
+.navigation-list {
+  display: flex;
+  justify-content: space-between;
+}
+.navigation li {
+  list-style-type: none;
+}
+.navigation-link {
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 13px;
+}
+.content {
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+.left-area {
+  width: 30%;
+  background-color: lightgray;
+  text-align: center;
+  padding-bottom: 10px;
+}
+.left-area .contact {
+  margin-top: 20px;
+  padding: 0 10px;
+}
+.contact p{
+  font-size: 30px;
+  font-weight: normal;
+  margin: 15px 0;
+}
+.contact ul {
+  padding-left: 20px;
+}
+.contact li {
+  font-weight: bold;
+  font-size: 18px;
+  margin: 5px 0;
+}
+.contact a {
+  font-size: 12px;
+}
+.skills {
+  margin-top: 20px;
+}
+skills h2 {
+  font-size: 30px;
+  font-weight: normal;
+}
+.skills-list {
+  padding: 0 30px;
+}
+.skills-list .skills-elements p {
+  padding-top: 5px;
+  font-size: 15px;
+  font-weight: bold;
+}
+.skills-elements span {
+  display: block;
+  width: 100%;
+  height: 10px;
+  background-color: gray;
+  margin-top: 10px;
+  border-radius: 10px;
+} 
+.right-area {
+  width: 70%;
+}
+.right-area h2 {
+  margin: 15px 10px;
+}
+.right-area p {
+  padding: 10px 10px;
+}
+.right-area code {
+  
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 14px;
+}
+.footer {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-items: center;
+  padding: 30px 50px;
+  width: 100%;
+  height: 100px;
+  background-color: rgb(24, 21, 41);
+  color: white;
+}
+.footer a {
+  color: white;
+}
+.footer p{
+  justify-self: center;
+  color:white;
+}
+.footer a:last-child {
+  justify-self: end;
+}
+.footer a img {
+  height: 32px;
+}
